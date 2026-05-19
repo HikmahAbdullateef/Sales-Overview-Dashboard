@@ -26,7 +26,7 @@ This dashboard analyzes retail sales performance using Power BI.
 - Customer purchasing patterns
 
 ## Dashboard Preview
-![Dashboard](screenshots/sales dashboard preview.png)
+![Dashboard](Sales Dashboard Preview.png)
 
 ## Files Included
 - dashboard.pbix
